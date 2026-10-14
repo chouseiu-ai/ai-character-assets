@@ -2,7 +2,7 @@
 
 DeepSeek、Claude、GPT 社区拟人形象的已定稿二维资产。由 **chouseiu-ai** 选型、修改方向与审校，使用 Codex 内置图像生成及局部分层合成完成。
 
-当前仓库为**私有非商业归档**。角色不是相关公司的官方人设；插画、品牌名称与商标的权利和使用范围见 [NOTICE](NOTICE.md)、[来源与许可核实](docs/ASSET_SOURCES.md) 和 [LICENSE](LICENSE)。
+本仓库公开提供**非商业同人资产**。角色不是相关公司的官方人设；插画、品牌名称与商标的权利和使用范围见 [NOTICE](NOTICE.md)、[来源与许可核实](docs/ASSET_SOURCES.md) 和 [LICENSE](LICENSE)。
 
 ![三角色定稿总览](overview-preview.png)
 
