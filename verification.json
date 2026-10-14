@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "approved_characters": 3,
+  "approved_primary_views": 9,
+  "source_files_byte_identical_checked": 82,
+  "original_claude_final_embroidery_master_present": true,
+  "original_gpt_final_necklace_master_present": true,
+  "independent_back_generation_masters_and_registered_layers_present": true,
+  "transparent_final_assets_checked": [
+    "Claude/assets/embroidery/emblem-master.png",
+    "Claude/assets/embroidery/emblem-scaled.png",
+    "Claude/assets/back-layers/complete-hair-master.png",
+    "Claude/assets/back-layers/complete-body-master.png",
+    "Claude/assets/back-layers/hair-layer.png",
+    "Claude/assets/back-layers/body-layer.png",
+    "GPT/assets/necklace/necklace-master.png",
+    "GPT/assets/necklace/necklace-layer-original.png",
+    "GPT/assets/back-layers/complete-hair-master.png",
+    "GPT/assets/back-layers/complete-body-master.png",
+    "GPT/assets/back-layers/hair-layer.png",
+    "GPT/assets/back-layers/body-layer.png"
+  ],
+  "front_and_back_recomposition_pixels_match_final": {
+    "Claude": {
+      "original_front_reproduced": true,
+      "standard_front_pixels_match": true,
+      "back_layer_pixels_match": true,
+      "standard_back_pixels_match": true
+    },
+    "GPT": {
+      "original_front_reproduced": true,
+      "standard_front_pixels_match": true,
+      "back_layer_pixels_match": true,
+      "standard_back_pixels_match": true
+    }
+  },
+  "packaging_generation_calls": 0
+}

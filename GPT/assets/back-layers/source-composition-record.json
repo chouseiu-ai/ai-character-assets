@@ -1,0 +1,107 @@
+{
+  "canvas": [
+    1254,
+    1254
+  ],
+  "method": "two independent complete RGBA assets, uniformly registered; hair and horns above the complete hairless clothed body",
+  "layer_order_bottom_to_top": [
+    "body-layer.png",
+    "hair-horns-layer.png"
+  ],
+  "old_full_character_image_used_as_underlay": false,
+  "resampling": "one fractional-box Lanczos resampling per premultiplied RGBA layer; uniform scale and translation only",
+  "hair_scale": 0.5517241379310345,
+  "hair_translation": [
+    280.51724137931035,
+    68.0
+  ],
+  "body_scale": 0.8366477272727273,
+  "body_translation": [
+    102.421875,
+    168.04261363636363
+  ],
+  "registration_landmarks": {
+    "hair": {
+      "raw_horn_top": 29,
+      "target_horn_top": 84,
+      "raw_hair_bottom": 1073,
+      "target_hair_bottom": 660,
+      "raw_head_axis": 628,
+      "target_head_axis": 627
+    },
+    "body": {
+      "raw_sweater_hem": 490,
+      "target_sweater_hem": 578,
+      "raw_shoe_bottom": 1194,
+      "target_shoe_bottom": 1167,
+      "raw_body_axis": 627,
+      "target_body_axis": 627
+    }
+  },
+  "actual_alpha_bounds": {
+    "hair_horns_layer": [
+      399,
+      84,
+      857,
+      660
+    ],
+    "body_layer": [
+      327,
+      269,
+      836,
+      1167
+    ],
+    "composite": [
+      327,
+      84,
+      857,
+      1167
+    ]
+  },
+  "cleanup": {
+    "hair": {
+      "original_alpha_bounds": [
+        215,
+        29,
+        1045,
+        1073
+      ],
+      "clean_alpha_bounds": [
+        215,
+        29,
+        1045,
+        1073
+      ],
+      "noise_pixels_removed": 58645,
+      "method": "retain connected opaque subject and its two-pixel alpha fringe; suppress detached extraction noise"
+    },
+    "body": {
+      "original_alpha_bounds": [
+        269,
+        121,
+        877,
+        1194
+      ],
+      "clean_alpha_bounds": [
+        269,
+        121,
+        877,
+        1194
+      ],
+      "noise_pixels_removed": 13242,
+      "method": "retain connected opaque subject and its two-pixel alpha fringe; suppress detached extraction noise",
+      "neutral_white_leg_gap_pixels_removed": 4
+    }
+  },
+  "source_sha256": {
+    "hair-raw.png": "c925003fa79d79118b10795b6639c85da4d65f6384331852388f76d8503fcb8a",
+    "body-raw.png": "42633ab52552961edc22235893d720ccf954c2cb4c2c21ebc87f79ee8d259c7d"
+  },
+  "qa": {
+    "complete_hair_without_arm_shaped_cutouts": "visually verified: dense continuous hair covers shoulders and upper arms; small natural curl gaps remain",
+    "visible_wrists_and_hands_continuous": "visually verified: cuffs remain above both hands, partly covered by side curls; no isolated skin or arm fragments",
+    "tail_root_under_hair_and_scales_separate": "visually verified: tail root under centre hair; visible scale contours separate from hair strands",
+    "hair_length_and_canvas_registration": "horn top 84, natural hair crown approximately 120, longest hair end 660, shoe bottom 1167; no anisotropic stretch",
+    "unchanged_other_views": "no front, left, zip or package files touched"
+  }
+}

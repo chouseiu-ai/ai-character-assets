@@ -1,0 +1,74 @@
+{
+  "character": "DeepSeek",
+  "status": "user-approved final",
+  "approval_date": "2026-10-14",
+  "approval_message": "ok 三个角色都可以定稿了 你整理一下交付吧 记得分别生成的终版素材都要收录进去 比如claude的刺绣章 gpt的项链",
+  "single_canvas": [
+    1254,
+    1254
+  ],
+  "combined_canvas": [
+    3762,
+    1254
+  ],
+  "combined_order": [
+    "front",
+    "left",
+    "back"
+  ],
+  "alignment_target": {
+    "natural_crown_y": 120,
+    "sole_y": 1167,
+    "body_axis_x": 627
+  },
+  "source_final_package": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek",
+  "views": {
+    "front": {
+      "file": "front.png",
+      "sha256": "de28128c09569ff9760fb0952316ecebf3f70ee5f7ce6628ff6bae747156ea41"
+    },
+    "left": {
+      "file": "left.png",
+      "sha256": "057987d4d6cf672dc7d81f838bbe6bcb6e9c39bf2489b5014df47e02322dd13b"
+    },
+    "back": {
+      "file": "back.png",
+      "sha256": "82e7eab6c6575cf68c8a2f7b82f64ea94f4290db2166fa3b299587121e3dba40"
+    }
+  },
+  "assets": [
+    {
+      "file": "assets/hand-details/hands-detail.png",
+      "sha256": "a623c28950236bda5ffb2c8016ee2f2c03c61965a2e73122efc406d20b90bf78",
+      "dimensions": [
+        1150,
+        595
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/hand-details/left-hand-detail.png",
+      "sha256": "2516331c649fe57337fb3d4d4fda7f6562845138b467b277f742881c63156351",
+      "dimensions": [
+        560,
+        595
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/hand-details/right-hand-detail.png",
+      "sha256": "19ca97103b1dcbf3fa6baebd4fe9a794343338e169b87acf008f9e5e8c2718f8",
+      "dimensions": [
+        570,
+        595
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/README.txt",
+      "sha256": "88b498f8fb38c540b3e3e32487979bc57be30e9cf1cf5ad9d6ba66b1a66995bd"
+    }
+  ],
+  "packaging_repainted_artwork": false,
+  "all_primary_views_byte_identical_to_approved_sources": true
+}

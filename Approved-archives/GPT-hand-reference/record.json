@@ -1,0 +1,24 @@
+{
+  "status": "user approved hands as reference only; full outfit is not approved",
+  "source": "outputs/gpt-front-v1-light-space-suit/front.png",
+  "source_sha256": "6d5a26c6072c2f6d3d5890eaced3b67de5028fd0766f26de9c50a8a630d9e99a",
+  "crop_boxes": {
+    "left-hand-reference.png": [
+      405,
+      580,
+      500,
+      732
+    ],
+    "right-hand-reference.png": [
+      750,
+      580,
+      846,
+      732
+    ]
+  },
+  "canvas": [
+    1254,
+    1254
+  ],
+  "notes": "Preserve the normal hand size, five-finger anatomy and relaxed pose during subsequent costume changes."
+}

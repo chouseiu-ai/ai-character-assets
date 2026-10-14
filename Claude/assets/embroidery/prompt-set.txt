@@ -1,0 +1,26 @@
+PASS 1 — Remove shield backing and add white embroidered contour
+
+Use case: precise-object-edit
+Asset type: standalone high-resolution embroidered Claude emblem with transparent background, for compositing onto a school sweater.
+Edit target: Image 1 is the existing orange Claude embroidered symbol on a black shield-shaped fabric patch.
+Supporting reference: Image 2 is the exact official Claude starburst silhouette.
+Make precisely these changes:
+1. Remove the ENTIRE black shield, black backing, black stitched border and surrounding backing material. No shield, rectangle, circle or cloth base of any color should remain.
+2. Keep ONLY the orange official Claude symbol's twelve irregular rays joined into one filled orange center, with the same shape, orientation, unequal ray lengths and orange satin-stitch texture.
+3. Add a thin, clean WHITE EMBROIDERED OUTLINE directly around the full contour of the orange symbol, including every ray's edges, tips and inward notches. The white thread should be about 1.5 to 2 percent of the total emblem width, narrow enough that orange remains dominant and gaps between rays stay open. Render the border as real white thread stitches, not a glowing halo, not a white shield backing.
+Composition: Single complete symbol viewed straight-on and flat, centered with generous transparent margins in a high-resolution square image. This is the isolated emblem ONLY, with no character or garment.
+Transparency: Genuinely transparent alpha outside the embroidered symbol AND within all open negative spaces between rays. No black or colored pixels forming a continuous backdrop behind the orange symbol. No background fabric, no baked checkerboard, no shadow behind the emblem.
+Invariants: Preserve the official shape and existing orange stitch material, solid connected center and all twelve rays. Do not turn it into a flower or hollow ring.
+Style: Restrained embroidered clothing applique compatible with a softly rendered anime school sweater; fine satin thread, subtle texture, crisp silhouette. No letters or wordmark.
+
+
+PASS 2 — Slightly thicker white border with subtle hand-embroidered irregularity
+
+Use case: precise-object-edit
+Asset type: standalone transparent embroidered Claude symbol; a subtle refinement of the already approved asset.
+Edit target: Image 1 is the approved orange Claude embroidered symbol with a thin white embroidered outline and NO backing.
+Primary request: Change ONLY the outer white embroidery edge. Make it approximately 30 percent thicker than the reference, still restrained and visibly white. Give the white border the gentle irregularity of an older hand-embroidered applique.
+Border detail: Along the mostly straight ray edges, keep a continuous tidy white stitched contour. At inward notches, sharp bends and blunt ray tips, introduce small natural variations in stitch length, spacing, density, angle and edge thickness. Let a few tightly attached thread loops and slight compression of stitches accumulate at corners, with mild raised and flattened areas from use. The edge should feel softly worn and handmade, with organic asymmetry rather than perfectly uniform machine stitching. Keep this subtle; do not add dirt, stains, torn holes or detached wisps. The border must remain a contour around the symbol rather than any cloth backing.
+Invariants: Preserve the orange center, all twelve orange rays, their exact silhouette, orientation, lengths, proportions, placement, color and existing satin-stitch texture. Keep the center solid orange and the open gaps between rays clear. No shield, black fabric, disk or base of any color. No additional logos or text.
+Composition: Same isolated emblem, straight-on flat view, fully visible with transparent margins, high-resolution square image.
+Backdrop: GENUINELY TRANSPARENT alpha background, including every negative space between rays. No surrounding cloth or garment, no fake checkerboard, no cast shadow. No specks, confetti, floating threads or embroidery particles outside the main emblem.

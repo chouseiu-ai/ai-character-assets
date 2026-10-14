@@ -1,0 +1,17 @@
+{
+  "mode": "Built-in image_gen image editing",
+  "scope": "DeepSeek front view hands only; no side/back views edited",
+  "edit_target": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\three-view-v11-hands\\front-four-finger-rejected.png",
+  "approved_anatomy_references": [
+    "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\left-hand-detail-final.png",
+    "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\right-hand-detail-final.png"
+  ],
+  "prompt_file": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\prompt.txt",
+  "generated_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-b7ff420b-a558-4788-8554-ac780b40b34f.png",
+  "final_file": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\front.png",
+  "size": [
+    1254,
+    1254
+  ],
+  "sha256": "de28128c09569ff9760fb0952316ecebf3f70ee5f7ce6628ff6bae747156ea41"
+}

@@ -1,0 +1,17 @@
+Use case: precise-object-edit.
+Primary edit target: Image 1, the complete front-view DeepSeek blue-haired whale-maid character picture. It currently has ONLY FOUR fingers per hand: one thumb and three long fingers. The user wants this exact DeepSeek front picture repaired. Change ONLY its two hands.
+Images 2 and 3: Cropped CLOSE-UP examples of the user's approved Claude hands. These are anatomy guides ONLY: each has one thumb and FOUR long fingers, five separate visible tips. Do not copy any of the orange hair, clothing, cuff, or pixelated enlargement into the result.
+
+Repair the anatomy by adding the missing fourth long finger to EACH hand. Redraw each local hand silhouette rather than copying its incorrect four-finger outline. Keep the existing normal palm size, wrist location, skin color, delicate anime line weight and relaxed downward/outward orientation. Each hand must have FIVE SEPARATE, VISIBLY COUNTABLE FINGERTIPS — not five internal lines, not a hidden extra finger.
+
+Specific anatomy for EACH hand:
+- ONE inward thumb, short and curved naturally.
+- FOUR long fingers: index, middle, ring, little.
+- Middle finger longest, ring and index a little shorter, little finger distinctly shorter.
+- All four long fingers terminate at their own softly rounded tip.
+- Use THREE small but clearly open gaps between the four long fingers, plus the thumb web gap.
+- No finger can overlap, hide behind another, merge into a shared tip, or appear only as an internal crease.
+The pose may be a modest relaxed spread like the approved hand examples so all five tips are readable. Preserve the overall wrist-to-longest-finger length and palm proportions of the current DeepSeek picture; do not shrink or grossly enlarge the hands.
+
+Absolute invariants: Every other part of image 1 must stay as-is. Keep the exact square white canvas, body height and location, face and expression, blue gradient hair, hairband, fin ears, navy sleeves, cream cuffs and their edges, broad plain cream apron, whale emblem, long navy dress, waist bow, original whale tail, legs, white stockings and navy shoes. Do not restyle, redraw the face, resize the body, alter the apron or tail, add text or change the background.
+Output ONE complete DeepSeek front-view picture with five clearly readable fingers on BOTH hands. No Claude character, no close-up inserts, no other views.

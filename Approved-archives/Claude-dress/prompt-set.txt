@@ -1,0 +1,36 @@
+Mode: built-in image_gen tool.
+Final artwork: front-final.png (1254x1254 PNG).
+Inputs: approved Claude orange-hair reference + approved DeepSeek v10 front style reference.
+Final framing: isotropic Lanczos resampling, body axis x=627, hair crown y=143, soles y=1167.
+
+prompt.txt
+Use case: style-transfer.
+Asset type: One front-view full-body character design sample for a coordinated anime character turnaround series.
+Primary request: Adapt the Claude orange-haired scholarly girl from reference 1 into exactly the illustration style and body/hand proportions of the approved DeepSeek girl in reference 2. This is the user-approved direction; make only ONE Claude character in this image, facing directly forward.
+Input images: Reference 1 (claude-orange-sunflower-reference.jpg) is the character identity, hair, palette and costume source. Reference 2 (three-view-v10-aligned/front.png) is the strict art-style, head/body ratio, normal hand size, neutral pose and square-canvas framing reference. Keep the characters distinct.
+Scene/backdrop: Flat clean white background. No particles, glow, fog, ground shadow, labels, reference thumbnails or text.
+Subject: Anime female Claude community personification. Long rich orange hair with long face-framing locks and softly curled broad ends, warm amber eyes, gentle small smile. Keep the principal flower hair accessory and its dark bow on the same side as reference 1; one main flower at the collar, and the two modest flower-and-bow fasteners on the skirt sides, rendered as clean simple flower shapes. Normal human ears.
+Costume: Preserve the reference 1 scholarly long-dress identity: cream blouse with a modest ruffled high collar and dark neck ribbon, short cream shoulder cape, fitted deep brown/near-black waist panel with a few simple gold buttons, cream ankle-length A-line long skirt, warm orange front hanging panel and dark side panels, cream lace-up low-heel shoes. Simplify the layering into readable clean shapes. Plain fabric areas. Remove all dense plant embroidery, metallic chains, tassels, lace-up sleeve detailing, tiny pendant jewelry and elaborate gold ornament. Keep only principal flower accessories and minimal plain trim. The skirt remains a skirt with a continuous broad hem; retain the long skirt length, not a short dress, trousers or shorts. Both shoes and complete silhouette must be visible.
+Style/medium: Faithfully match reference 2's soft, clean anime character-sheet drawing: controlled fine dark outlines, simple large hair sections, gentle cel-shaded color blocks, restrained soft highlights, matte fabric. Match its facial construction, eye rendering, modest body proportions and warmth. No painterly realism, no fashion-illustration elongated proportions, no chibi, no 3D rendering.
+Composition/framing: Square white image, one single full-body orthographic-like front view, body centered, head upright, shoulders and hips level. Match reference 2's figure scale and whitespace: main head-top around 10% from top, lowest shoe soles around 93% from top, body axis at horizontal 50%. Arms relaxed slightly away from torso, palms at thigh/hip height like reference 2, hands fully visible, feet planted and uncrossed. No book in the hands: the main design sample must show the whole costume and hands unobstructed; book is a separate future optional accessory.
+Hand constraints: Use reference 2's NORMAL hand-to-head and hand-to-forearm proportions. Both hands should have a substantial natural palm, each hand about the face length from brow to chin, with five total fingers including a clear thumb, coherent joints and tapered fingers. Do not miniaturize hands, exaggerate fingers, add fingers or use deformed motion hands.
+Identity constraints: Preserve the orange/cream/dark-brown Claude design. Never copy DeepSeek's blue hair, whale tail, fin ears, maid headband, apron or whale emblem. No random magical ornaments, extra characters, extra limbs or text.
+Deliverable: One polished, consistent front-view Claude sample ready for user approval before drawing other views.
+
+
+prompt-hands.txt
+Use case: precise-object-edit.
+Edit target: The supplied front-view Claude image. Repair ONLY the two hands in this existing image. Everything outside the hands must remain exactly as in the input: face, orange hair, flowers, sleeves, cuffs, bodice, skirt panels, bows, shoes, pose, scale and white background.
+Problem: Several long fingers overlap and merge into one shape, so the finger count is ambiguous. Make both relaxed open hands anatomically coherent with FIVE TOTAL FINGERS EACH: one thumb plus four individually readable fingers (index, middle, ring and little). Depict four simple tapered finger tips in a relaxed shallow spread, with middle finger longest and little finger shorter. Place the thumb on the correct inward side. Fingers attach to a substantial natural palm and a narrow coherent wrist. Use a clear but soft anime outline; avoid stiff fan-shaped splayed hands.
+Crucial proportion invariant: Keep each overall wrist-to-longest-fingertip length and palm width approximately the SAME as the existing input. Do not shrink either hand; do not change forearm length. This user has specifically rejected tiny hands. Keep the current hand orientation, relaxed pose and location, adjusting only local finger silhouettes/separation as necessary.
+Art style: Exact same clean, soft anime rendering as the input, simple gentle shading and thin dark outlines. No photorealistic fingers or extra detailing.
+Retain the whole original square character picture. No crops, inserts, diagrams, additional characters or text. This is a tightly localized hand cleanup, not a new character generation.
+
+
+prompt-hands-clear.txt
+Edit target: Existing front-facing orange-haired Claude character reference. Output the same complete square front-view picture. Change ONLY the two hands. Keep all other artwork exactly as-is, including hand size, wrist positions, cuffs, orange hair, face, cream/black/orange long dress, flower ornaments, shoes, clean white background.
+The two hands still have ambiguous missing-finger silhouettes. This time give each hand FIVE clearly VISIBLE finger TIPS, not just five drawn internal lines: one inward thumb and FOUR outward/downward fingers. Separate the four long fingers with small visible gaps so none can hide behind another. All four distinct long fingertips must be visible individually against the background. In order from the little finger along the outer edge toward the thumb: short little finger, longer ring finger, longest middle finger, slightly shorter index finger, then the angled short thumb at the inner edge. Do not merge ring and middle into a shared outline. Do not hide the little finger behind the hand.
+Relaxed neutral character-sheet hands with an anatomically normal palm, gently spread fingers, shallow natural bends, correct knuckle bases and simple soft anime outlines. Keep the same NORMAL overall palm width and wrist-to-fingertip length. The hands must not become tiny, huge, stiff, six-fingered, 3D or photorealistic.
+Maintain original illustration style and all pixels away from the hands as closely as possible. No text or extra elements.
+
+

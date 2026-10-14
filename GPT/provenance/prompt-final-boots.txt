@@ -1,0 +1,13 @@
+Use case: precise-object-edit
+Asset type: the user's complete GPT front character illustration.
+Image 1 is the ONLY full-image edit target and authoritative design. Image 2 is the desired boot construction reference.
+
+Repair the two existing boots DIRECTLY WITHIN Image 1 by generating an anatomically coherent footwear correction. Integrate the new boot openings naturally around the existing black sock-covered ankles, with clean occlusion, continuous contours and no white slits, detached collars or cut-and-paste seams. This is a direct local generative edit in the full illustration, not a pasted shoe cutout.
+
+Use the matching black 1460-style front-view pair in Image 2: coordinated shaft heights and toe-box volumes, eight PAIRS of eyelets on EACH boot, coherent crossed black laces, one modest tied bow per boot, centred tongues, rounded toes, soft black leather highlights, continuous yellow welt stitching and ordinary smoke-brown grooved soles. Adapt the reference to the character's existing foot size, ankle positions and standing pose. Feet remain close and forward-facing. Keep a subtle natural left/right difference rather than exaggerated asymmetry. Avoid making the feet larger, the shafts taller or the soles into platforms.
+
+Remove Image 1's tall yellow/black flags beside the calves. Each heel pull loop must be short, attached to the rear centre of its boot and mostly concealed behind the ankle in this front view; only a tiny sliver close to the back rim may show. No flags on the socks, floating tags, duplicated heel loops or patches on the front tongues.
+
+STRICT INVARIANTS: copy Image 1's entire character and background as-is above the boots. Preserve the existing exact face, expression, pale lavender eyes, silver-white hair and delicate grey-lavender hair lines, horns, ears, hands and fingers, body proportions, necklace, forest-green/cream/navy Fair Isle sweater pattern and crisp knitted material, matte black leather skirt and its folds/length, opaque black cotton socks and their texture, and the white scaled dragon tail and its pose. Preserve leg thickness, length and stance; only allow the immediate sock/boot boundary to be resolved for a believable fit. Do not retouch, restyle, recolour, smooth or recreate any other part of the image.
+
+The result must be ONE complete front illustration on the SAME 1254-square white canvas, same scale and registration as Image 1, head-to-sole framing unchanged. No new props, no text, no watermark and no reference sheet. Concentrate the generative change on the two boots and their ankle contact only.

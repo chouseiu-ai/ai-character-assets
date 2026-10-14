@@ -1,0 +1,46 @@
+{
+  "status": "necklace restored using original independent asset; user review pending",
+  "base": "source/front-user-selected.png",
+  "necklace_master_sha256": "20a135e9af32960a7d1dd0f47085ad706cbb2e8f21e6bd7480499adf886f598f",
+  "master_repainted": false,
+  "front_semantic_edit": "built-in image_gen removal of old necklace in a local crop; only narrow old-chain/charm footprint applied",
+  "cleanup_crop": [
+    545,
+    265,
+    725,
+    445
+  ],
+  "cleanup_mask_nonzero_pixels": 2616,
+  "necklace_charm_transform": "uniform scale and translation, no rotation or shape warp",
+  "pendant_center_raw": [
+    631,
+    366
+  ],
+  "pendant_width_raw": 19,
+  "chain_anchors_raw": [
+    [
+      594.0,
+      294.0
+    ],
+    [
+      667.0,
+      298.0
+    ]
+  ],
+  "hair_occluded_pixels": 23,
+  "changed_pixels_raw": 2319,
+  "changed_pixels_outside_cleanup_and_necklace_layer_raw": 0,
+  "series_registration": {
+    "uniform_scale": 0.9896030245746692,
+    "translation": [
+      4.539697542533077,
+      8.174858223062387
+    ],
+    "natural_hair_crown_y": 120,
+    "sole_y": 1167,
+    "body_axis_x": 627
+  },
+  "raw_output_sha256": "76738f31c4354536cc27b3d2476b983908a1c7eed65145b9bb76752c6afd196b",
+  "output_sha256": "4eecc2623dc25860b805b2c31ca151ffc6e33347b2d96e4822d06af67051aef7",
+  "prompt": "prompt-remove-necklace.txt"
+}

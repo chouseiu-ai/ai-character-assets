@@ -1,0 +1,215 @@
+{
+  "character": "GPT",
+  "status": "user-approved final",
+  "approval_date": "2026-10-14",
+  "approval_message": "ok 三个角色都可以定稿了 你整理一下交付吧 记得分别生成的终版素材都要收录进去 比如claude的刺绣章 gpt的项链",
+  "single_canvas": [
+    1254,
+    1254
+  ],
+  "combined_canvas": [
+    3762,
+    1254
+  ],
+  "combined_order": [
+    "front",
+    "left",
+    "back"
+  ],
+  "alignment_target": {
+    "natural_crown_y": 120,
+    "sole_y": 1167,
+    "body_axis_x": 627
+  },
+  "source_final_package": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered",
+  "views": {
+    "front": {
+      "file": "front.png",
+      "sha256": "4eecc2623dc25860b805b2c31ca151ffc6e33347b2d96e4822d06af67051aef7"
+    },
+    "left": {
+      "file": "left.png",
+      "sha256": "26844c43ff24c0234a3fb1b48714f3ae9528042e74139657eb2e42032dbe0124"
+    },
+    "back": {
+      "file": "back.png",
+      "sha256": "559507e9ea7fba0386c427f2c8316644d54b850c6d52113740defd2e06a4059f"
+    }
+  },
+  "assets": [
+    {
+      "file": "assets/back-layers/back-transparent.png",
+      "sha256": "df123bf04af70b2780b9a46cf69b42f25b5dbf52cf14f348920810b41733f97d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/body-layer.png",
+      "sha256": "f572c0e41b5267e7c7d928c4fc88cb18fcd56ef832aff5340ba5157d3935c196",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/complete-body-master.png",
+      "sha256": "42633ab52552961edc22235893d720ccf954c2cb4c2c21ebc87f79ee8d259c7d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/complete-hair-master.png",
+      "sha256": "c925003fa79d79118b10795b6639c85da4d65f6384331852388f76d8503fcb8a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/hair-layer.png",
+      "sha256": "c4b101ce3e8bb266a6400fa1338a438c3bcc62b13d3cb53639559447f9f74c4b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/layers-preview.png",
+      "sha256": "048bda061dcceb3a0dccab8d6482ff41f8ef305f59354a6f1d0507c38a4ee100",
+      "dimensions": [
+        1881,
+        627
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/back-layers/prompt-body.txt",
+      "sha256": "f6a75788051e3de1cb0212effdfe052831a88d47915ac7da20047a4e70159f98"
+    },
+    {
+      "file": "assets/back-layers/prompt-hair.txt",
+      "sha256": "e7aaf19d21bca3b8fb9ae8cc012c066f0c68d4089ebba6bff1e21f403f945ca1"
+    },
+    {
+      "file": "assets/back-layers/README.txt",
+      "sha256": "8512cefec2181204c9b22d86de11affdc6bdcfb38412868634e1a4c0d86c6d19"
+    },
+    {
+      "file": "assets/back-layers/source-composition-record.json",
+      "sha256": "2d685f41e12ebdfda2606ca345a7727820264f01ee9d58d4fb0d3e46f389a5af"
+    },
+    {
+      "file": "assets/boot-details.png",
+      "sha256": "df2a59973534cb9d9752e615a3a58e01fb513d823ca13fc013028fd67a4bc69b",
+      "dimensions": [
+        618,
+        690
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/necklace/necklace-detail.png",
+      "sha256": "50cb832e00fff29d74c4365a0a3149bb86ab55e9494e82271d0780000929e080",
+      "dimensions": [
+        850,
+        675
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/necklace/necklace-layer-original.png",
+      "sha256": "b4856c43ca93d75b1185eda3941d48645221d60f75f6857236c654eeb54cd6fa",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/necklace/necklace-layer.png",
+      "sha256": "54ec8fb3d721a304f60591b1ec8976dfc8c5b7969de9652f877c884415af03fb",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/necklace/necklace-master.png",
+      "sha256": "20a135e9af32960a7d1dd0f47085ad706cbb2e8f21e6bd7480499adf886f598f",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/necklace/old-necklace-cleanup-mask.png",
+      "sha256": "df05ec4e878595e2387f4bd3cba79be445fa8a67ed7e4cfebee5e9930ef08d2e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "L"
+    },
+    {
+      "file": "assets/necklace/prompt-local-removal.txt",
+      "sha256": "9ec8458b16b7b080b2d963de5af85ab5c4f3a5ee49929fb9609616251ed36170"
+    },
+    {
+      "file": "assets/necklace/prompt-original-asset.txt",
+      "sha256": "781254ee20e909e96e1a2dcc855b1458663599f88f7a442880779012640d8595"
+    },
+    {
+      "file": "assets/necklace/README.txt",
+      "sha256": "729d588eae67f42c68b77d3f07cad708fe7bbe7bc2ece53c84e77a450fb25968"
+    },
+    {
+      "file": "assets/necklace/source-composition-record.json",
+      "sha256": "f34426938d04c330c64f8d6914643b2bcd7494182a95c4b1dc4afa98ebe9168c"
+    }
+  ],
+  "packaging_repainted_artwork": false,
+  "all_primary_views_byte_identical_to_approved_sources": true
+}

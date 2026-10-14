@@ -1,0 +1,16 @@
+Use case: precise-object-edit.
+Image 1 is the full EDIT TARGET. Image 2 is a magnified reference of its waist/hip crossing, not a different composition.
+The user has APPROVED the lowest zipper's exact current endpoint, curve and pull-tab geometry. LOCK THEM. Do not reposition or redesign ANY zipper.
+
+ONLY CORRECT THE LAYER OCCLUSION WHERE THE LOWEST ZIPPER CROSSES THE PALE VERTICAL RIBBON.
+The pale cream/beige vertical fabric ribbon/webbing hanging from the harness buckle is the TOP foreground layer. The diagonal zipper is attached to the silver suit underneath. Currently the zipper teeth were mistakenly painted across the ribbon's top surface. That is the sole defect.
+
+At the crossing, approximately x613-635,y580-615:
+- Restore the SAME ribbon's uninterrupted opaque pale fabric surface IN FRONT of the zipper. Its width, length, pointed bottom, edge lines and shading remain as in image 1.
+- Hide/erase every black zipper tooth, dark binding and zipper highlight ONLY INSIDE THE RIBBON'S silhouette. Reconstruct continuous matching cream/beige cloth in that small crossing area, with no hard horizontal cutoff or patch seam.
+- Keep BOTH zipper segments OUTSIDE the ribbon exactly where they already are, so their hidden path continues straight/smoothly behind it. The exposed right-side terminal and approved pull tab remain at their EXACT image-1 location and retain their shape/size.
+- Do not shorten the lowest zipper, move its endpoint, change its slope, add a new slider, alter the shared origin, or put zipper teeth on the ribbon again.
+飘带在最上层，拉链在飘带下面；交叉处由完整飘带遮住拉链，拉链两侧和已认可末端原样保留。
+
+Everything else in the full illustration must stay unchanged: all three tracks' common waist origin, main upper zipper, waist horizontal zipper, accepted lower zipper course and endpoint, restored chest volume, under-bust harness, orange collar liner, logo, layered silver garment and ports, bare five-finger hands, face, white hair, dragon horns, pose, boots, framing and white background.
+One clean full FRONT illustration on the same 1254-square canvas. No colored guide marks, labels, new accessories or unrelated changes.

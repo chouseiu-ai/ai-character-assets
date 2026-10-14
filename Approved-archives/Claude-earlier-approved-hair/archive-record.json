@@ -1,0 +1,14 @@
+{
+  "approved_scope": "Complete transparent Claude back-hair asset only",
+  "user_confirmation": "只是认可透明后发素材，背图暂不更新",
+  "mode": "built-in image_gen",
+  "generated_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-5faad127-e781-421d-bff8-135bda21fb88.png",
+  "source_working_file": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v3-layered\\hair-master-raw.png",
+  "archived_file": "hair.png",
+  "sha256": "d75fd3f1360c4b520aac3cf1e62f48f0554fbc7cfaf50dea20f31c774af8c0de",
+  "prompt_file": "prompt.txt",
+  "approved_back_view_not_replaced": true,
+  "existing_character_packages_not_modified": true,
+  "further_generation_or_compositing_requires_user_confirmation": true,
+  "unapproved_experiments": "claude-jk-back-v2-occlusion/back-candidate.png and claude-jk-back-v3-layered/back-layered-candidate.png are experiments and were not added to the fixed packages"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "user-approved archived front design",
+  "variant": "GPT silver space suit",
+  "approved_date": "2026-10-14",
+  "source": "outputs\\gpt-front-v9-ribbon-occlusion\\front.png",
+  "source_version": "v9 ribbon occlusion fix",
+  "scope": "front illustration only; no side/back views produced",
+  "canvas": [
+    1254,
+    1254
+  ],
+  "source_sha256": "531b3b32fdcaa5da628f88a977c8afd972150aff4dae4db8fbe789abefdb52ac",
+  "notes": "Three zippers share the anatomical right-waist origin; accepted lowest-zipper endpoint; pale ribbon occludes zipper from above. This approved design is archived while a separate casual outfit is explored."
+}

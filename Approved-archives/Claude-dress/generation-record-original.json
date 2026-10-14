@@ -1,0 +1,34 @@
+{
+  "mode": "Built-in image_gen tool; character adaptation followed by localized hand edit",
+  "status": "Front sample awaiting user approval before side/back views",
+  "reference_character": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-reference-research\\claude-orange-sunflower-reference.jpg",
+  "style_anchor": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\three-view-v10-aligned\\front.png",
+  "generated_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-b69533ed-b9e3-4d70-b29d-14a5e536395a.png",
+  "hand_edit_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-527c16ce-63c6-4795-9609-00aa54604a70.png",
+  "prompt_files": [
+    "prompt.txt",
+    "prompt-hands.txt",
+    "prompt-hands-clear.txt"
+  ],
+  "final_file": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\front-final.png",
+  "size": [
+    1254,
+    1254
+  ],
+  "alignment": {
+    "source_hair_top_y": 45,
+    "source_sole_y": 1219,
+    "source_body_axis_x": 630,
+    "target_hair_top_y": 143,
+    "target_sole_y": 1167,
+    "target_body_axis_x": 627,
+    "scale_xy": 0.8722316865417377,
+    "translation_xy": [
+      77.49403747870531,
+      103.7495741056218
+    ],
+    "method": "Single-pass Lanczos isotropic resampling and translation; no shape warp or repaint"
+  },
+  "sha256": "d69843b06d42cb3d24e4bcf288e36dea4c46fc1bd016ed10e4d8bfbeefc079b5",
+  "hand_edit_source_final": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-9d0f576b-8124-46bb-85c7-8057e55930ae.png"
+}

@@ -1,0 +1,526 @@
+{
+  "status": "user-approved final delivery",
+  "delivery_version": 1,
+  "approval_date": "2026-10-14",
+  "approval_message": "ok 三个角色都可以定稿了 你整理一下交付吧 记得分别生成的终版素材都要收录进去 比如claude的刺绣章 gpt的项链",
+  "characters": [
+    "DeepSeek",
+    "Claude",
+    "GPT"
+  ],
+  "single_size": [
+    1254,
+    1254
+  ],
+  "combined_size": [
+    3762,
+    1254
+  ],
+  "combined_order": [
+    "front",
+    "left",
+    "back"
+  ],
+  "overview_order_top_to_bottom": [
+    "DeepSeek",
+    "Claude",
+    "GPT"
+  ],
+  "copied_sources": [
+    {
+      "file": "DeepSeek/front.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek\\front.png",
+      "role": "approved standard final view",
+      "sha256": "de28128c09569ff9760fb0952316ecebf3f70ee5f7ce6628ff6bae747156ea41"
+    },
+    {
+      "file": "DeepSeek/left.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek\\left.png",
+      "role": "approved standard final view",
+      "sha256": "057987d4d6cf672dc7d81f838bbe6bcb6e9c39bf2489b5014df47e02322dd13b"
+    },
+    {
+      "file": "DeepSeek/back.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek\\back.png",
+      "role": "approved standard final view",
+      "sha256": "82e7eab6c6575cf68c8a2f7b82f64ea94f4290db2166fa3b299587121e3dba40"
+    },
+    {
+      "file": "DeepSeek/three-view.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek\\alignment-preview.png",
+      "role": "full-resolution three-view board",
+      "sha256": "3d73c3c2f2283e7061d8f3e47ccffe2f81809eff0e7358e391309a5d45f1bd1d"
+    },
+    {
+      "file": "DeepSeek/alignment-guides.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\DeepSeek\\alignment-guides.png",
+      "role": "alignment inspection board",
+      "sha256": "b922f3b8d4d9f9a039a2d3be853bf77e529ee4912c70de170d75f2fcf66ef7f7"
+    },
+    {
+      "file": "Claude/front.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude\\front.png",
+      "role": "approved standard final view",
+      "sha256": "2b0b571a614d6446ad75c453f98e343fee949d81347c653ab5eb00169917e391"
+    },
+    {
+      "file": "Claude/left.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude\\left.png",
+      "role": "approved standard final view",
+      "sha256": "402c055f4e18f51990951719962405547ac7402f729f01ce99d24a6d58099a7a"
+    },
+    {
+      "file": "Claude/back.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude\\back.png",
+      "role": "approved standard final view",
+      "sha256": "3db0c02a7396c300b393e4819381c06b52e35906cd7de6ce782cd4e74af90cd1"
+    },
+    {
+      "file": "Claude/three-view.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude\\alignment-preview.png",
+      "role": "full-resolution three-view board",
+      "sha256": "692afb7c6893df7802200914c89f6cb0e38d7982a96ce28548703ea28eae4c51"
+    },
+    {
+      "file": "Claude/alignment-guides.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude\\alignment-guides.png",
+      "role": "alignment inspection board",
+      "sha256": "97ecb6beeee4df2a7363a7dfec5052813e42b7461d2147c5cd56e4dee820f0d4"
+    },
+    {
+      "file": "GPT/front.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\front.png",
+      "role": "approved standard final view",
+      "sha256": "4eecc2623dc25860b805b2c31ca151ffc6e33347b2d96e4822d06af67051aef7"
+    },
+    {
+      "file": "GPT/left.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\left.png",
+      "role": "approved standard final view",
+      "sha256": "26844c43ff24c0234a3fb1b48714f3ae9528042e74139657eb2e42032dbe0124"
+    },
+    {
+      "file": "GPT/back.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\back.png",
+      "role": "approved standard final view",
+      "sha256": "559507e9ea7fba0386c427f2c8316644d54b850c6d52113740defd2e06a4059f"
+    },
+    {
+      "file": "GPT/three-view.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\alignment-preview.png",
+      "role": "full-resolution three-view board",
+      "sha256": "1861193d11a8044ab0390e5177ede4a178ae5e77d7df8a1506b0c6c98bcf2e8b"
+    },
+    {
+      "file": "GPT/alignment-guides.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\alignment-guides.png",
+      "role": "alignment inspection board",
+      "sha256": "7a945cf13abb217eb89d7c72822b10bb75a67f8ad0cd7b4e30adf203592935f9"
+    },
+    {
+      "file": "DeepSeek/assets/hand-details/left-hand-detail.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\left-hand-detail.png",
+      "role": "approved front hand detail crop",
+      "sha256": "2516331c649fe57337fb3d4d4fda7f6562845138b467b277f742881c63156351"
+    },
+    {
+      "file": "DeepSeek/assets/hand-details/right-hand-detail.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\right-hand-detail.png",
+      "role": "approved front hand detail crop",
+      "sha256": "19ca97103b1dcbf3fa6baebd4fe9a794343338e169b87acf008f9e5e8c2718f8"
+    },
+    {
+      "file": "DeepSeek/assets/hand-details/hands-detail.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\hands-detail.png",
+      "role": "approved front hand detail crop",
+      "sha256": "a623c28950236bda5ffb2c8016ee2f2c03c61965a2e73122efc406d20b90bf78"
+    },
+    {
+      "file": "DeepSeek/provenance/prompt-final-hands.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\prompt.txt",
+      "role": "built-in final hand-edit prompt",
+      "sha256": "637900eca57847819d5d65d58eb315bdd63de0655a8be5a2461a54be12790130"
+    },
+    {
+      "file": "DeepSeek/provenance/source-hand-generation-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\deepseek-front-v12-hands\\generation-record.json",
+      "role": "original generation provenance",
+      "sha256": "838e24eb58b1e7dc8160485566cce1af1a8db574a58b07584357f357919fc607"
+    },
+    {
+      "file": "Claude/assets/embroidery/emblem-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\emblem-master.png",
+      "role": "final independent embroidered emblem",
+      "sha256": "5e0e3de288fdea61be32701c12cd8dc9309a4a8ddf10a175b97cc0110fa949a0"
+    },
+    {
+      "file": "Claude/assets/embroidery/emblem-scaled.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\emblem-scaled.png",
+      "role": "final independent embroidered emblem",
+      "sha256": "c674f9132ed400e07a2fb8c76f7ddd7cdb755345e194b80dc0b2c0dd20268e70"
+    },
+    {
+      "file": "Claude/assets/embroidery/emblem-on-charcoal.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\emblem-on-charcoal.png",
+      "role": "final independent embroidered emblem",
+      "sha256": "0734bdd0eb9a2159d5deb2529fdeb44db259c2cab3773cba7b382ee162df2019"
+    },
+    {
+      "file": "Claude/source-artwork/front-original.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\front.png",
+      "role": "approved front before series registration",
+      "sha256": "0b06141a25c9257cc0d2aeedd63e88b4630c37f48d866e46c26432902c4c99d9"
+    },
+    {
+      "file": "Claude/source-artwork/front-without-emblem.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v5-face\\front-eyes-final.png",
+      "role": "emblem compositing base",
+      "sha256": "03e3f56ad4789b1e98369cfe6bbe0c03005ee44528f35c1eb73fdeff3c2b8ff6"
+    },
+    {
+      "file": "Claude/assets/embroidery/source-composition-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\generation-composition-record.json",
+      "role": "original emblem placement provenance",
+      "sha256": "c046a8b1a8a099d9b3818eb7be6276d68cf1cedafbb811212dce6a3a8c1efe5e"
+    },
+    {
+      "file": "Claude/assets/embroidery/prompt-set.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\prompt-set.txt",
+      "role": "final emblem generation prompts",
+      "sha256": "10b412824c5003d3736a87271febbb970cb1226e10098442cd2658c7d5dc6b15"
+    },
+    {
+      "file": "Claude/source-artwork/left-original.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-three-view-v1\\source\\left-refined.png",
+      "role": "approved final left artwork before registration",
+      "sha256": "d45e108ee2e0056f8bb0b02bd3982d0891fb5d151cb3baab47e7c9ef67dae005"
+    },
+    {
+      "file": "Claude/provenance/prompt-left.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-three-view-v1\\prompt-left.txt",
+      "role": "final left-view generation prompt",
+      "sha256": "dd11e1c423a5d7eb8d33604a67e8febd6d7bb2986b3960ce7640639cce6fce69"
+    },
+    {
+      "file": "Claude/provenance/prompt-left-refine.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-three-view-v1\\prompt-left-refine.txt",
+      "role": "final left-view generation prompt",
+      "sha256": "c87a4a98e184cec932d3543c239327495ba58ec707763ce2254bef318a87f0a8"
+    },
+    {
+      "file": "Claude/assets/back-layers/complete-hair-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\hair-and-accessory-raw.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "b48280203771d2f87906fc43b81c99e6ad6224794bbac9290fcc7107a9093159"
+    },
+    {
+      "file": "Claude/assets/back-layers/complete-body-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\body-raw.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "1793ed85fad926ed5ea4cbcf5e83f3798e43c7f3833588a02e4241e0c64092cd"
+    },
+    {
+      "file": "Claude/assets/back-layers/hair-layer.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\hair-and-accessory-layer.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "c9d61495f3a43409e4a8ae24cb5ad3bb8aaffa015758f07327cafc2ae265f4a4"
+    },
+    {
+      "file": "Claude/assets/back-layers/body-layer.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\body-layer.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "7a9a400aabeb7b506da297c1b3a24385f7dcba81043fdc6e89d53b28cf682c36"
+    },
+    {
+      "file": "Claude/assets/back-layers/back-transparent.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\back-transparent.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "d5edc942041e6276cb573c8f08864f96e6c30df3c769f22003e368557834bb12"
+    },
+    {
+      "file": "Claude/assets/back-layers/prompt-hair.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\prompt-hair.txt",
+      "role": "complete layer generation prompt",
+      "sha256": "903972702cea56ae37667cee44d9a2642b1a1dfc28a1d8cd39a5bcf54f4e9878"
+    },
+    {
+      "file": "Claude/assets/back-layers/prompt-body.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\prompt-body.txt",
+      "role": "complete layer generation prompt",
+      "sha256": "a0e55df7a0ec9433be7140225a229e6b90829d52002574a40cfe08eb103b47d6"
+    },
+    {
+      "file": "Claude/assets/back-layers/source-composition-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\composition-record.json",
+      "role": "original back-layer composition provenance",
+      "sha256": "0ce349a63709bee7041c5a588a55a2e69fd5b7b4e5b5c95ee24ab5a1251e69c9"
+    },
+    {
+      "file": "Claude/assets/back-layers/layers-preview.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-back-v6-clean-layers\\layers-comparison-preview.png",
+      "role": "complete independent layers and composite preview",
+      "sha256": "3ae9619067f4eda29398221358838fbb45b55dc130ddc34dfbd80e353ace7ca3"
+    },
+    {
+      "file": "GPT/assets/back-layers/complete-hair-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\source\\hair-raw.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "c925003fa79d79118b10795b6639c85da4d65f6384331852388f76d8503fcb8a"
+    },
+    {
+      "file": "GPT/assets/back-layers/complete-body-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\source\\body-raw.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "42633ab52552961edc22235893d720ccf954c2cb4c2c21ebc87f79ee8d259c7d"
+    },
+    {
+      "file": "GPT/assets/back-layers/hair-layer.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\hair-horns-layer.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "c4b101ce3e8bb266a6400fa1338a438c3bcc62b13d3cb53639559447f9f74c4b"
+    },
+    {
+      "file": "GPT/assets/back-layers/body-layer.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\body-layer.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "f572c0e41b5267e7c7d928c4fc88cb18fcd56ef832aff5340ba5157d3935c196"
+    },
+    {
+      "file": "GPT/assets/back-layers/back-transparent.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\back-transparent.png",
+      "role": "final independent complete back asset or registered layer",
+      "sha256": "df123bf04af70b2780b9a46cf69b42f25b5dbf52cf14f348920810b41733f97d"
+    },
+    {
+      "file": "GPT/assets/back-layers/prompt-hair.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\prompt-hair.txt",
+      "role": "complete layer generation prompt",
+      "sha256": "e7aaf19d21bca3b8fb9ae8cc012c066f0c68d4089ebba6bff1e21f403f945ca1"
+    },
+    {
+      "file": "GPT/assets/back-layers/prompt-body.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\prompt-body.txt",
+      "role": "complete layer generation prompt",
+      "sha256": "f6a75788051e3de1cb0212effdfe052831a88d47915ac7da20047a4e70159f98"
+    },
+    {
+      "file": "GPT/assets/back-layers/source-composition-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\back-composition-record.json",
+      "role": "original back-layer composition provenance",
+      "sha256": "2d685f41e12ebdfda2606ca345a7727820264f01ee9d58d4fb0d3e46f389a5af"
+    },
+    {
+      "file": "GPT/assets/back-layers/layers-preview.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\back-layers-small.png",
+      "role": "complete independent layers and composite preview",
+      "sha256": "048bda061dcceb3a0dccab8d6482ff41f8ef305f59354a6f1d0507c38a4ee100"
+    },
+    {
+      "file": "GPT/assets/necklace/necklace-master.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\necklace-master.png",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "20a135e9af32960a7d1dd0f47085ad706cbb2e8f21e6bd7480499adf886f598f"
+    },
+    {
+      "file": "GPT/assets/necklace/necklace-layer-original.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\necklace-layer.png",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "b4856c43ca93d75b1185eda3941d48645221d60f75f6857236c654eeb54cd6fa"
+    },
+    {
+      "file": "GPT/assets/necklace/necklace-detail.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\necklace-detail.png",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "50cb832e00fff29d74c4365a0a3149bb86ab55e9494e82271d0780000929e080"
+    },
+    {
+      "file": "GPT/assets/necklace/old-necklace-cleanup-mask.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\necklace-cleanup-mask.png",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "df05ec4e878595e2387f4bd3cba79be445fa8a67ed7e4cfebee5e9930ef08d2e"
+    },
+    {
+      "file": "GPT/assets/necklace/source-composition-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\front-composition-record.json",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "f34426938d04c330c64f8d6914643b2bcd7494182a95c4b1dc4afa98ebe9168c"
+    },
+    {
+      "file": "GPT/assets/necklace/prompt-original-asset.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\prompt-necklace-original-asset.txt",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "781254ee20e909e96e1a2dcc855b1458663599f88f7a442880779012640d8595"
+    },
+    {
+      "file": "GPT/assets/necklace/prompt-local-removal.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\prompt-remove-necklace.txt",
+      "role": "final independent necklace or compositing provenance",
+      "sha256": "9ec8458b16b7b080b2d963de5af85ab5c4f3a5ee49929fb9609616251ed36170"
+    },
+    {
+      "file": "GPT/source-artwork/front-without-necklace.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\front-without-necklace.png",
+      "role": "approved source front and compositing base",
+      "sha256": "843ac9ea6658f5c3eaaea4829598a432b092982a648e15249a0b2a13d081af5f"
+    },
+    {
+      "file": "GPT/source-artwork/front-original.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\front-necklace-restored-original.png",
+      "role": "approved source front and compositing base",
+      "sha256": "76738f31c4354536cc27b3d2476b983908a1c7eed65145b9bb76752c6afd196b"
+    },
+    {
+      "file": "GPT/source-artwork/left-original.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v1\\source\\left-refined.png",
+      "role": "approved final left artwork",
+      "sha256": "af6c1aabd8ba3b4fccd440dea4b19e19fab7ad1fc01680b7a4fe007f71666970"
+    },
+    {
+      "file": "GPT/provenance/prompt-left.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v1\\prompt-left.txt",
+      "role": "final left-view generation prompt",
+      "sha256": "e81a88210d64b1d3bfdd7a71df546dacb849eb3d007dab6d8ef7570bd35d7b95"
+    },
+    {
+      "file": "GPT/provenance/prompt-left-refine.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v1\\prompt-left-refine.txt",
+      "role": "final left-view generation prompt",
+      "sha256": "20344a37c5bc51137a953c28a279b6b9e1eb27ea7276905aef5f7d12e4a1447c"
+    },
+    {
+      "file": "GPT/provenance/prompt-final-boots.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-front-v15-generative-boot-edit\\prompt-edit.txt",
+      "role": "accepted direct generative boot repair prompt",
+      "sha256": "6cb5b98bbb021fcbebad681c9b0fc7727fa0ce7a67644f81d451cdfb4bd3e259"
+    },
+    {
+      "file": "GPT/assets/boot-details.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-front-v15-generative-boot-edit\\boots-detail.png",
+      "role": "accepted final shoe detail crop",
+      "sha256": "df2a59973534cb9d9752e615a3a58e01fb513d823ca13fc013028fd67a4bc69b"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/archive-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\archive-record.json",
+      "role": "previously approved separate archive",
+      "sha256": "e9cc2028aaef3cddd02c2cd71b5fc8411ebd7a2e7faad29a3d0642e0bd793207"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/front.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\front.png",
+      "role": "previously approved separate archive",
+      "sha256": "d69843b06d42cb3d24e4bcf288e36dea4c46fc1bd016ed10e4d8bfbeefc079b5"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/generation-record-original.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\generation-record-original.json",
+      "role": "previously approved separate archive",
+      "sha256": "35a29b53b487877dcfec0b9466abe3cc19767320e2cba727b318b2e635abfb1e"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/prompt-set.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\prompt-set.txt",
+      "role": "previously approved separate archive",
+      "sha256": "c18101e9fa93e70bf32ccce297477db9ab5f9f2ca5f619ab9bc038a8e471d61f"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/reference-sources.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\reference-sources.txt",
+      "role": "previously approved separate archive",
+      "sha256": "6b8becb757653128eea56be9decec4fc1d0d68b0b7bcc0be9ef11ea7623dc9cf"
+    },
+    {
+      "file": "Approved-archives/Claude-earlier-approved-hair/archive-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\back-hair-approved-v1\\archive-record.json",
+      "role": "previously approved separate archive",
+      "sha256": "6cc89dd10e01ca03011a70df6729939893c3763caa23f7cc8a06866d9e01dfaa"
+    },
+    {
+      "file": "Approved-archives/Claude-earlier-approved-hair/hair.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\back-hair-approved-v1\\hair.png",
+      "role": "previously approved separate archive",
+      "sha256": "d75fd3f1360c4b520aac3cf1e62f48f0554fbc7cfaf50dea20f31c774af8c0de"
+    },
+    {
+      "file": "Approved-archives/Claude-earlier-approved-hair/notes.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\back-hair-approved-v1\\notes.txt",
+      "role": "previously approved separate archive",
+      "sha256": "59eab9dcd99f1c067c9214844ded9550a45c527502841d83b3b0f98fb5389cd8"
+    },
+    {
+      "file": "Approved-archives/Claude-earlier-approved-hair/prompt.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\back-hair-approved-v1\\prompt.txt",
+      "role": "previously approved separate archive",
+      "sha256": "a662d2c46648b2b0775e2291672c600e03cf056708671d0e95b129f124381c57"
+    },
+    {
+      "file": "Approved-archives/GPT-space-suit/archive-record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\space-suit-approved-v1\\archive-record.json",
+      "role": "previously approved separate archive",
+      "sha256": "65a693ae7454b64ea366a089306ce4bfb55a53fe03cf9660ba3dbe07c8a74403"
+    },
+    {
+      "file": "Approved-archives/GPT-space-suit/front.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\space-suit-approved-v1\\front.png",
+      "role": "previously approved separate archive",
+      "sha256": "531b3b32fdcaa5da628f88a977c8afd972150aff4dae4db8fbe789abefdb52ac"
+    },
+    {
+      "file": "Approved-archives/GPT-space-suit/prompt-last-occlusion.txt",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\space-suit-approved-v1\\prompt-last-occlusion.txt",
+      "role": "previously approved separate archive",
+      "sha256": "713ac5cca13c3126bc65b5d4417d1cf6764184c9707746b3352bd384533d3d55"
+    },
+    {
+      "file": "Approved-archives/GPT-space-suit/ribbon-zipper-detail.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\space-suit-approved-v1\\ribbon-zipper-detail.png",
+      "role": "previously approved separate archive",
+      "sha256": "42102f78a49533a9dfd029611fc6ee43f935345eaf578a356335c3ac09d0f97f"
+    },
+    {
+      "file": "Approved-archives/GPT-hand-reference/left-hand-reference.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\hands-approved-v1\\left-hand-reference.png",
+      "role": "previously approved separate archive",
+      "sha256": "c8875eeff8b56a5bd7df6ccbc17c08ab94cd48e5cab2863cea00cd3b6df2a038"
+    },
+    {
+      "file": "Approved-archives/GPT-hand-reference/record.json",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\hands-approved-v1\\record.json",
+      "role": "previously approved separate archive",
+      "sha256": "e35454322a007352842edad31859e129eecbaf8a0ae0b314cf9b298bb900373e"
+    },
+    {
+      "file": "Approved-archives/GPT-hand-reference/right-hand-reference.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-archive\\hands-approved-v1\\right-hand-reference.png",
+      "role": "previously approved separate archive",
+      "sha256": "8cd62307b1926f86136e913e745a18ca0df0eb74529b030859779a40474aec86"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/hand-details/left-hand-detail-final.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\left-hand-detail-final.png",
+      "role": "approved hand anatomy reference crop",
+      "sha256": "a822dcb5209fa4d22593a93dddb9a1e84c3590cfec6f0dabb79affd429585670"
+    },
+    {
+      "file": "Approved-archives/Claude-dress/hand-details/right-hand-detail-final.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\right-hand-detail-final.png",
+      "role": "approved hand anatomy reference crop",
+      "sha256": "2e922d2cb482babd2e942c56ec10173dcce0aeffce51ffb5af1301b75d7afa57"
+    },
+    {
+      "file": "overview.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\series-overview.png",
+      "role": "approved nine-image series overview",
+      "sha256": "3e363fbdbd8ea56ba0975227e730efbd276d3060ecaa1469be3fd0e2b14f08cb"
+    },
+    {
+      "file": "overview-preview.png",
+      "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\gpt-casual-three-views-v2-layered\\series-overview-preview.png",
+      "role": "overview screen preview",
+      "sha256": "bd5b4724a54fc5d817b232d9f1a039395131d85e7d11c7d3a81f94510b00e906"
+    }
+  ],
+  "packaging_generation_calls": 0,
+  "master_assets_repainted": false,
+  "source_files_byte_identical": true
+}

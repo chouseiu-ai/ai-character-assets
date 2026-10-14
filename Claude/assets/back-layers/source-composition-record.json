@@ -1,0 +1,39 @@
+{
+  "status": "preview; fixed three-view packages unchanged",
+  "method": "two independently generated complete RGBA layers; hair and accessory composited on top of a complete hairless clothed body",
+  "image_generation_mode": "built-in image_gen, two calls",
+  "layer_order_bottom_to_top": [
+    "body-layer.png",
+    "hair-and-accessory-layer.png"
+  ],
+  "old_full_character_image_used_as_underlay": false,
+  "canvas": [
+    1254,
+    1254
+  ],
+  "body_scale": 0.9497607655502392,
+  "body_translation": [
+    32,
+    47
+  ],
+  "hair_scale": 0.6108452950558214,
+  "hair_translation": [
+    245,
+    81
+  ],
+  "visible_bounds": [
+    310,
+    120,
+    944,
+    1167
+  ],
+  "matte_cleanup": "suppress isolated alpha noise; opaque hair/body interiors; remove neutral white extraction residue between legs",
+  "prompts": [
+    "prompt-hair.txt",
+    "prompt-body.txt"
+  ],
+  "source_hashes": {
+    "source-hair.png": "b20ac8f84559c83e4a35b166b414621b4894bba0fd37536a4df3343982bbd168",
+    "source-full.png": "7315a924a68ead31f973766d5357e0b0a6a52a0b2d6a4f38b9a0cb7ff3883e1b"
+  }
+}

@@ -1,0 +1,4 @@
+Use case: precise-object-edit.
+Image 1 is a magnified LOCAL neckline/chest crop from the approved character. Remove ONLY the existing silver necklace: the entire fine chain, connector and small GPT pendant. Restore the underlying skin/collar and forest-green/navy/cream patterned knitted sweater naturally and precisely, matching the existing geometric diamond repetition, ribbing, yarn texture and lighting.
+Preserve everything else EXACTLY: crop, scale, hair strands and their contours, neck anatomy, sweater folds, colours and all garment motif geometry. Do not simplify, blur, smooth, shift or recolour the knit. Do not redesign the face/hair or add accessories. No new logo, chain or pendant.
+Return the SAME square local crop without a necklace on its existing background; it will be composited only through the tiny old jewellery footprint onto the unchanged full source image. Precise pixel registration is essential. No text or watermark.

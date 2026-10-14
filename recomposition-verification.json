@@ -1,0 +1,14 @@
+{
+  "Claude": {
+    "original_front_reproduced": true,
+    "standard_front_pixels_match": true,
+    "back_layer_pixels_match": true,
+    "standard_back_pixels_match": true
+  },
+  "GPT": {
+    "original_front_reproduced": true,
+    "standard_front_pixels_match": true,
+    "back_layer_pixels_match": true,
+    "standard_back_pixels_match": true
+  }
+}

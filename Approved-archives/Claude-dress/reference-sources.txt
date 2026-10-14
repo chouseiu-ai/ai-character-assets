@@ -1,0 +1,42 @@
+Claude reference research / proposal — not approved for drawing yet
+Date: 2026-10-13
+
+Approved style anchor:
+DeepSeek outputs/three-view-v10-aligned/front.png, left.png, back.png
+User accepted this character version as fixed on 2026-10-13.
+
+Candidate 1 — preferred visual direction, subject to user confirmation:
+Repository: https://github.com/WPH666-py/AI-Family-Skin-Suit3
+Asset: https://github.com/WPH666-py/AI-Family-Skin-Suit3/blob/main/assets/02-claude.jpg
+Raw: https://raw.githubusercontent.com/WPH666-py/AI-Family-Skin-Suit3/main/assets/02-claude.jpg
+Local unmodified reference: claude-orange-sunflower-reference.jpg
+Observed: long orange hair, amber/brown eyes, flower hair accessory with dark bow,
+cream blouse and long dress, dark waist panel and orange skirt panels, flower motifs,
+short shoulder cape, book, many chains/tassels/hem plant ornaments, pale lace-up shoes.
+README describes orange-haired Claude book girl with sunflower-pattern long dress.
+README art-use statement: personal desktop decoration; no secondary commercial use.
+Repository code MIT is not evidence of a separate MIT license for the illustrations.
+Original illustrator attribution was not found in inspected README.
+
+Candidate 2 — alternate with explicit project artwork license:
+Repository: https://github.com/JAdpp/dsh-whale-galgame
+Asset: https://github.com/JAdpp/dsh-whale-galgame/blob/main/assets/default/claude-amber-manuscript-mediator-v5.webp
+Raw: https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/main/assets/default/claude-amber-manuscript-mediator-v5.webp
+Local unmodified reference: claude-amber-manuscript-mediator-v5.webp
+Observed: wavy brown shoulder-length hair, side braid/orange bow, amber eyes,
+pixel orange hair clip, orange coat, brown waistcoat, cream short layered dress,
+brown lace-up boots, book, metallic decorative trims.
+NOTICE: unofficial Claude-inspired AI-assisted project artwork, 1024x1536.
+License: CC BY-NC-SA 4.0, to the extent the maintainer holds applicable rights.
+License/attribution evidence: https://github.com/JAdpp/dsh-whale-galgame/blob/main/NOTICE.md
+
+Proposed adaptation (requires user confirmation):
+Prefer candidate 1, preserving its recognizable orange hair, warm palette, principal
+flower accessories and scholarly long dress. Match approved DeepSeek proportions,
+normal hand size, clean outlines, and soft shape-based shading.
+Reduce dense hem embroidery, chains, tassels and lacing; keep principal flower motifs.
+Prepare one front sample first. On approval, produce separate front / left / back views,
+using uniform canvas resolution, body scale, sole baseline and body-axis placement.
+Book proposed as optional accessory outside the main neutral-pose turnaround.
+
+No generated or retouched Claude artwork has been produced in this step.

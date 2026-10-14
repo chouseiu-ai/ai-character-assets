@@ -1,0 +1,206 @@
+{
+  "character": "Claude",
+  "status": "user-approved final",
+  "approval_date": "2026-10-14",
+  "approval_message": "ok 三个角色都可以定稿了 你整理一下交付吧 记得分别生成的终版素材都要收录进去 比如claude的刺绣章 gpt的项链",
+  "single_canvas": [
+    1254,
+    1254
+  ],
+  "combined_canvas": [
+    3762,
+    1254
+  ],
+  "combined_order": [
+    "front",
+    "left",
+    "back"
+  ],
+  "alignment_target": {
+    "natural_crown_y": 120,
+    "sole_y": 1167,
+    "body_axis_x": 627
+  },
+  "source_final_package": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\character-three-views-fixed-v2\\Claude",
+  "views": {
+    "front": {
+      "file": "front.png",
+      "sha256": "2b0b571a614d6446ad75c453f98e343fee949d81347c653ab5eb00169917e391"
+    },
+    "left": {
+      "file": "left.png",
+      "sha256": "402c055f4e18f51990951719962405547ac7402f729f01ce99d24a6d58099a7a"
+    },
+    "back": {
+      "file": "back.png",
+      "sha256": "3db0c02a7396c300b393e4819381c06b52e35906cd7de6ce782cd4e74af90cd1"
+    }
+  },
+  "assets": [
+    {
+      "file": "assets/back-layers/back-transparent.png",
+      "sha256": "d5edc942041e6276cb573c8f08864f96e6c30df3c769f22003e368557834bb12",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/body-layer.png",
+      "sha256": "7a9a400aabeb7b506da297c1b3a24385f7dcba81043fdc6e89d53b28cf682c36",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/complete-body-master.png",
+      "sha256": "1793ed85fad926ed5ea4cbcf5e83f3798e43c7f3833588a02e4241e0c64092cd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/complete-hair-master.png",
+      "sha256": "b48280203771d2f87906fc43b81c99e6ad6224794bbac9290fcc7107a9093159",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/hair-layer.png",
+      "sha256": "c9d61495f3a43409e4a8ae24cb5ad3bb8aaffa015758f07327cafc2ae265f4a4",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/back-layers/layers-preview.png",
+      "sha256": "3ae9619067f4eda29398221358838fbb45b55dc130ddc34dfbd80e353ace7ca3",
+      "dimensions": [
+        1881,
+        627
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/back-layers/prompt-body.txt",
+      "sha256": "a0e55df7a0ec9433be7140225a229e6b90829d52002574a40cfe08eb103b47d6"
+    },
+    {
+      "file": "assets/back-layers/prompt-hair.txt",
+      "sha256": "903972702cea56ae37667cee44d9a2642b1a1dfc28a1d8cd39a5bcf54f4e9878"
+    },
+    {
+      "file": "assets/back-layers/README.txt",
+      "sha256": "8512cefec2181204c9b22d86de11affdc6bdcfb38412868634e1a4c0d86c6d19"
+    },
+    {
+      "file": "assets/back-layers/source-composition-record.json",
+      "sha256": "0ce349a63709bee7041c5a588a55a2e69fd5b7b4e5b5c95ee24ab5a1251e69c9"
+    },
+    {
+      "file": "assets/embroidery/emblem-layer-original.png",
+      "sha256": "14fc6284b101dba417bda172c4d342fca1857dbaa14058340fe9779dbdf8cab7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/embroidery/emblem-layer.png",
+      "sha256": "f8edae772e4167cde6f00375e8cb3aa245f3f73e2fc07680de2980881b468d6c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/embroidery/emblem-master.png",
+      "sha256": "5e0e3de288fdea61be32701c12cd8dc9309a4a8ddf10a175b97cc0110fa949a0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/embroidery/emblem-on-charcoal.png",
+      "sha256": "0734bdd0eb9a2159d5deb2529fdeb44db259c2cab3773cba7b382ee162df2019",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "assets/embroidery/emblem-scaled.png",
+      "sha256": "c674f9132ed400e07a2fb8c76f7ddd7cdb755345e194b80dc0b2c0dd20268e70",
+      "dimensions": [
+        21,
+        20
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/embroidery/prompt-set.txt",
+      "sha256": "10b412824c5003d3736a87271febbb970cb1226e10098442cd2658c7d5dc6b15"
+    },
+    {
+      "file": "assets/embroidery/README.txt",
+      "sha256": "78c4ad32b3d77b98162adbfffe9ca2e8af08b91051cedb805393edb6a241ccdd"
+    },
+    {
+      "file": "assets/embroidery/source-composition-record.json",
+      "sha256": "c046a8b1a8a099d9b3818eb7be6276d68cf1cedafbb811212dce6a3a8c1efe5e"
+    }
+  ],
+  "packaging_repainted_artwork": false,
+  "all_primary_views_byte_identical_to_approved_sources": true
+}

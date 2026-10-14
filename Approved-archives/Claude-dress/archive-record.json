@@ -1,0 +1,13 @@
+{
+  "status": "Approved by user; archive created before JK outfit trial",
+  "approval": "Claude original dress version is sufficiently good; keep it archived and create a separate JK sample",
+  "date": "2026-10-13",
+  "source": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-front-v1\\front-final.png",
+  "archived_front": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-archive\\dress-approved-v1\\front.png",
+  "sha256": "d69843b06d42cb3d24e4bcf288e36dea4c46fc1bd016ed10e4d8bfbeefc079b5",
+  "source_pixels_preserved": true,
+  "views_present": [
+    "front"
+  ],
+  "note": "Only the approved front view exists; side/back views have not been generated."
+}

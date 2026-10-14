@@ -1,0 +1,54 @@
+{
+  "mode": "built-in image_gen edits for isolated emblem; user-authorized Pillow resizing and alpha compositing",
+  "initial_generation_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-cf113b76-4c93-46f8-9679-a74ef322a4ab.png",
+  "refined_generation_source": "C:/Users/ZHANG XINGYU/.codex/generated_images/01a12eff-d123-70d1-a765-97ab6a7e45d6/exec-0ba08774-3d3b-423b-a376-b43050ed3f38.png",
+  "prompts": [
+    "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\prompt.txt",
+    "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\prompt-outline-worn.txt"
+  ],
+  "base_portrait": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v5-face\\front-eyes-final.png",
+  "base_sha256": "03e3f56ad4789b1e98369cfe6bbe0c03005ee44528f35c1eb73fdeff3c2b8ff6",
+  "emblem_master": "C:\\Users\\ZHANG XINGYU\\Documents\\Codex\\2026-10-12\\ni\\outputs\\claude-jk-front-v8-white-outline\\emblem-master.png",
+  "emblem_master_sha256": "5e0e3de288fdea61be32701c12cd8dc9309a4a8ddf10a175b97cc0110fa949a0",
+  "master_dimensions": [
+    1254,
+    1254
+  ],
+  "master_alpha_extrema": [
+    0,
+    255
+  ],
+  "master_crop": [
+    15,
+    59,
+    1246,
+    1222
+  ],
+  "crop_bounds_alpha_threshold": 16,
+  "emblem_dimensions_on_portrait": [
+    21,
+    20
+  ],
+  "emblem_center": [
+    671,
+    349
+  ],
+  "emblem_top_left": [
+    661,
+    339
+  ],
+  "portrait_dimensions": [
+    1254,
+    1254
+  ],
+  "modified_pixels": 336,
+  "modified_pixels_outside_emblem_rectangle": 0,
+  "output_sha256": "0b06141a25c9257cc0d2aeedd63e88b4630c37f48d866e46c26432902c4c99d9",
+  "close_up_crop": [
+    550,
+    255,
+    727,
+    427
+  ],
+  "close_up_scale": 4
+}
